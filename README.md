@@ -87,12 +87,6 @@ Open `http://localhost:8501` in your browser.
 
 Avoid uploading confidential meeting recordings to hosted AI services without appropriate permission.
 
-## ⚠️ Current Limitations
-
-- Processes uploaded recordings, not live meetings.
-- Speaker diarization is not currently supported.
-- Task completion requires explicit confirmation.
-- Designed as an MVP for small-scale meeting history and retrieval.
 
 ## 👩‍💻 Author
 
